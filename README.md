@@ -17,7 +17,11 @@ $ python
 ### Run Server
 python app.py
 
-### Open Postman
+### Open Postman 
+
+https://www.getpostman.com/collections/1647708611c41e49a4d1
+
+
 #### For adding new books informantion send POST request on
 http://localhost:5000/book?user=tasnia&password=hlw123              [here 'tasnia' is admin and 'hlw123' is password]
 #### For update a book's informantion send PUT request on
