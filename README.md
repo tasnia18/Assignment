@@ -49,3 +49,5 @@ https://documenter.getpostman.com/view/10932897/SzYbxxCX?version=latest
 > Once the build process is done, we can run the application with the docker run command :
 
 >> docker run -p 5000:5000 doc-flask:v1
+
+#### Library is the final project
