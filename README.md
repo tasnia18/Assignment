@@ -28,7 +28,10 @@ $ python
 >> exit()
 
 ### Run Server
-python app.py
+
+>python app.py
+
+#### Library.rar is the Flask application without Docker
 
 ### Documentation using Postman
 https://documenter.getpostman.com/view/10932897/SzYbxxCX?version=latest
