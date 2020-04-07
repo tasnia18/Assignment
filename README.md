@@ -17,7 +17,7 @@ $ pipenv install pylint-flask
 
 $ pipenv shell
 
-### Create DB by writing those on command
+### Create DB by writing those command
 
 $ python
 
@@ -44,10 +44,10 @@ https://documenter.getpostman.com/view/10932897/SzYbxxCX?version=latest
 
 > We can then build our image with the docker build command :
 
->> docker build . -t doc-flask:v1
+>> docker build . -t library:v1
 
 > Once the build process is done, we can run the application with the docker run command :
 
->> docker run -p 5000:5000 doc-flask:v1
+>> docker run -p 5000:5000 library:v1
 
 #### Library is the final project
